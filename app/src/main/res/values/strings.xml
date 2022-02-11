@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomTest1</string>
+    <string name="btn_insert_msg">insert</string>
+    <string name="btn_delete_msg">delete</string>
+</resources>
